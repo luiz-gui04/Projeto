@@ -10,8 +10,9 @@
 }
 
 body{
-  background-image: url(assets/bg.jpg);
-  background-size: cover;
+  background-image: url(assets/bg-image.jpg);
+    background-size: cover;
+
 }
 
 
